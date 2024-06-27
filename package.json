@@ -1,0 +1,16 @@
+{
+    "name": "product-reviews",
+    "version": "1.0.0",
+    "description": "Product review app with sentiment analysis",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "sqlite3": "^5.0.0",
+      "sentiment": "^5.0.1"
+    }
+  }
+  
